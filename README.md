@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm WildorNotFalan 👋</h1>
+<h1 align="center">Hey, I'm WildornotFalan 👋</h1>
 
 <p align="center">
   🎮 Game Server Developer | 💻 Backend Enthusiast | 🎧 Discord Addict  
