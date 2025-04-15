@@ -45,24 +45,24 @@
 
 <p align="center">
   <a href="https://discord.gg/vayuCQuCT3" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/> </a>
-  <a href="https://www.instagram.com/wildornot" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/> </a>
-  <a href="wildornot0@gmail.com"> <img src="https://img.shields.io/badge/E--Mail-D14836?style=flat&logo=gmail&logoColor=white"/> </a>
+  <a href="https://www.instagram.com/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/> </a>
+  <a href="rtozturk0@gmail.com"> <img src="https://img.shields.io/badge/E--Mail-D14836?style=flat&logo=gmail&logoColor=white"/> </a>
 </p>
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🌙 Aktifim: genelde gece 2’de uyanık olurum.
-- 🧩 Oyun sunucularında optimizasyon manyağıyım.
-- 🥁 Müziği ve görsel düzenlemeyi seviyorum.
-- 🧠 "Aşırı detaycı" benim göbek adım olabilir.
+- 🌙 I'm Active: 24/7.
+- 🧩 I'm an optimization freak on game servers.
+- 🥁 I love music and visual arrangement.
+- 🧠 “Overly detail-oriented” could be my middle name.
 
 ---
 
 ## 💬 Motto
 
-> “Bazı şeyler koda dökülemez… ama çoğu dökülür.”
+> “Some things cannot be codified... but many can.”
 
 ---
 
